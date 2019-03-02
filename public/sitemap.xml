@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://rambleon.co.nz/posts/bako/</loc>
+    <lastmod>2012-02-20T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rambleon.co.nz/posts/kuching-cooking/</loc>
     <lastmod>2012-02-19T22:00:17+00:00</lastmod>
   </url>
@@ -61,6 +66,12 @@
   
   <url>
     <loc>https://rambleon.co.nz/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/categories/walks/</loc>
+    <lastmod>2012-02-20T22:24:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   

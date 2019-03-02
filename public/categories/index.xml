@@ -5,7 +5,7 @@
     <link>https://rambleon.co.nz/categories/</link>
     <description>Recent content in Categories on Rambleon</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-uk</language>
     <lastBuildDate>Sun, 26 Feb 2012 16:57:17 +0000</lastBuildDate>
     
         <atom:link href="https://rambleon.co.nz/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -37,6 +37,13 @@
       <pubDate>Sun, 26 Feb 2012 16:57:17 +0000</pubDate>
       
       <guid>https://rambleon.co.nz/categories/malaysia/</guid>
+      <description></description>
+    </item><item>
+      <title>Walks</title>
+      <link>https://rambleon.co.nz/categories/walks/</link>
+      <pubDate>Mon, 20 Feb 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/walks/</guid>
       <description></description>
     </item>
   </channel>
