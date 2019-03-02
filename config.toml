@@ -1,0 +1,7 @@
+baseURL = "https://rambleon.co.nz/"
+languageCode = "en-us"
+title = "Rambleon"
+theme = "aether"
+
+[params]
+bgimg = "restaurant/restaurant.png"
