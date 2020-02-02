@@ -1,28 +1,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Europe - Rambleon</title>
+    <title>europe - Rambleon</title>
     <link>https://rambleon.co.nz/europe/</link>
-    <description>Recent content in Europe on Rambleon</description>
+    <description>Recent content in europe on Rambleon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sat, 01 Dec 2012 22:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2013 22:24:37 +0000</lastBuildDate>
     
         <atom:link href="https://rambleon.co.nz/europe/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Bath and Bristol</title>
-      <link>https://rambleon.co.nz/europe/uk/bath_bristol/</link>
+      <title>Amsterdam</title>
+      <link>https://rambleon.co.nz/europe/amsterdam/</link>
+      <pubDate>Fri, 01 Feb 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/amsterdam/</guid>
+      <description>Canals and stroopwafel</description>
+    </item><item>
+      <title>United Kingdom</title>
+      <link>https://rambleon.co.nz/europe/uk/</link>
       <pubDate>Sat, 01 Dec 2012 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/europe/uk/bath_bristol/</guid>
-      <description>South West</description>
-    </item><item>
-      <title>Arriving in London</title>
-      <link>https://rambleon.co.nz/europe/uk/london_arrival/</link>
-      <pubDate>Fri, 13 Jul 2012 22:24:37 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/europe/uk/london_arrival/</guid>
-      <description>Our new home</description>
+      <guid>https://rambleon.co.nz/europe/uk/</guid>
+      <description></description>
     </item><item>
       <title>Belgium</title>
       <link>https://rambleon.co.nz/europe/belgium/</link>

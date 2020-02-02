@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>London - Rambleon</title>
+    <link>https://rambleon.co.nz/europe/uk/london/</link>
+    <description>Recent content in London on Rambleon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 12 Jan 2013 22:24:37 +0000</lastBuildDate>
+    
+        <atom:link href="https://rambleon.co.nz/europe/uk/london/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>xmas 2012</title>
+      <link>https://rambleon.co.nz/europe/uk/london/xmas12/</link>
+      <pubDate>Sat, 12 Jan 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/uk/london/xmas12/</guid>
+      <description>winter wonderland</description>
+    </item><item>
+      <title>Arriving in London</title>
+      <link>https://rambleon.co.nz/europe/uk/london/london_arrival/</link>
+      <pubDate>Fri, 13 Jul 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/uk/london/london_arrival/</guid>
+      <description>Our new home</description>
+    </item>
+  </channel>
+</rss>

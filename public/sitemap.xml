@@ -3,12 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rambleon.co.nz/europe/uk/bath_bristol/</loc>
-    <lastmod>2012-12-01T22:24:37+00:00</lastmod>
+    <loc>https://rambleon.co.nz/europe/amsterdam/</loc>
+    <lastmod>2013-02-01T22:24:37+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rambleon.co.nz/categories/</loc>
+    <lastmod>2013-02-01T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/categories/europe/</loc>
+    <lastmod>2013-02-01T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/</loc>
+    <lastmod>2013-02-01T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/categories/netherlands/</loc>
+    <lastmod>2013-02-01T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/</loc>
+    <lastmod>2013-02-01T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/uk/london/</loc>
+    <lastmod>2013-01-12T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/categories/london/</loc>
+    <lastmod>2013-01-12T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/uk/london/xmas12/</loc>
+    <lastmod>2013-01-12T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/uk/bath_bristol/</loc>
     <lastmod>2012-12-01T22:24:37+00:00</lastmod>
   </url>
   
@@ -18,27 +58,12 @@
   </url>
   
   <url>
-    <loc>https://rambleon.co.nz/europe/</loc>
+    <loc>https://rambleon.co.nz/europe/uk/</loc>
     <lastmod>2012-12-01T22:24:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rambleon.co.nz/categories/europe/</loc>
-    <lastmod>2012-12-01T22:24:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rambleon.co.nz/</loc>
-    <lastmod>2012-12-01T22:24:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rambleon.co.nz/europe/uk/london_arrival/</loc>
-    <lastmod>2012-07-13T22:24:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rambleon.co.nz/categories/london/</loc>
+    <loc>https://rambleon.co.nz/europe/uk/london/london_arrival/</loc>
     <lastmod>2012-07-13T22:24:37+00:00</lastmod>
   </url>
   

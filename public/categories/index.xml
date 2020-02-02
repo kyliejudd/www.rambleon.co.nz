@@ -5,30 +5,37 @@
     <description>Recent content in Categories on Rambleon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sat, 01 Dec 2012 22:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2013 22:24:37 +0000</lastBuildDate>
     
         <atom:link href="https://rambleon.co.nz/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>europe</title>
+      <link>https://rambleon.co.nz/categories/europe/</link>
+      <pubDate>Fri, 01 Feb 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/europe/</guid>
+      <description></description>
+    </item><item>
+      <title>Netherlands</title>
+      <link>https://rambleon.co.nz/categories/netherlands/</link>
+      <pubDate>Fri, 01 Feb 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/netherlands/</guid>
+      <description></description>
+    </item><item>
+      <title>london</title>
+      <link>https://rambleon.co.nz/categories/london/</link>
+      <pubDate>Sat, 12 Jan 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/london/</guid>
+      <description></description>
+    </item><item>
       <title>England</title>
       <link>https://rambleon.co.nz/categories/england/</link>
       <pubDate>Sat, 01 Dec 2012 22:24:37 +0000</pubDate>
       
       <guid>https://rambleon.co.nz/categories/england/</guid>
-      <description></description>
-    </item><item>
-      <title>europe</title>
-      <link>https://rambleon.co.nz/categories/europe/</link>
-      <pubDate>Sat, 01 Dec 2012 22:24:37 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/categories/europe/</guid>
-      <description></description>
-    </item><item>
-      <title>london</title>
-      <link>https://rambleon.co.nz/categories/london/</link>
-      <pubDate>Fri, 13 Jul 2012 22:24:37 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/categories/london/</guid>
       <description></description>
     </item><item>
       <title>asia</title>
@@ -71,13 +78,6 @@
       <pubDate>Sat, 26 May 2012 22:24:37 +0000</pubDate>
       
       <guid>https://rambleon.co.nz/categories/cambodia/</guid>
-      <description></description>
-    </item><item>
-      <title>sightseeing</title>
-      <link>https://rambleon.co.nz/categories/sightseeing/</link>
-      <pubDate>Sun, 13 May 2012 22:24:37 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/categories/sightseeing/</guid>
       <description></description>
     </item>
   </channel>
