@@ -1,0 +1,49 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sightseeing - Rambleon</title>
+    <link>https://rambleon.co.nz/categories/sightseeing/</link>
+    <description>Recent content in sightseeing on Rambleon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 13 May 2012 22:24:37 +0000</lastBuildDate>
+    
+        <atom:link href="https://rambleon.co.nz/categories/sightseeing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Siem Reap</title>
+      <link>https://rambleon.co.nz/asia/siem_reap/</link>
+      <pubDate>Sun, 13 May 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/siem_reap/</guid>
+      <description>Angkor Wat</description>
+    </item><item>
+      <title>Chiang Mai - Baan Chang Elephant park</title>
+      <link>https://rambleon.co.nz/asia/chang_mai_baan/</link>
+      <pubDate>Sat, 24 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/chang_mai_baan/</guid>
+      <description>Mahout for the day</description>
+    </item><item>
+      <title>Sukhothai</title>
+      <link>https://rambleon.co.nz/asia/sukhothai/</link>
+      <pubDate>Sun, 18 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/sukhothai/</guid>
+      <description>Thailands other old capital</description>
+    </item><item>
+      <title>Ayutthaya</title>
+      <link>https://rambleon.co.nz/asia/ayutthaya/</link>
+      <pubDate>Fri, 16 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/ayutthaya/</guid>
+      <description>First stop in Thailand</description>
+    </item><item>
+      <title>Cameron Highlands</title>
+      <link>https://rambleon.co.nz/asia/cameron_highlands/</link>
+      <pubDate>Tue, 06 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/cameron_highlands/</guid>
+      <description>escape the heat</description>
+    </item>
+  </channel>
+</rss>

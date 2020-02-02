@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories - Rambleon</title>
@@ -6,44 +5,79 @@
     <description>Recent content in Categories on Rambleon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sat, 03 Mar 2012 18:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2012 22:24:37 +0000</lastBuildDate>
     
         <atom:link href="https://rambleon.co.nz/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Asia</title>
+      <title>England</title>
+      <link>https://rambleon.co.nz/categories/england/</link>
+      <pubDate>Sat, 01 Dec 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/england/</guid>
+      <description></description>
+    </item><item>
+      <title>europe</title>
+      <link>https://rambleon.co.nz/categories/europe/</link>
+      <pubDate>Sat, 01 Dec 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/europe/</guid>
+      <description></description>
+    </item><item>
+      <title>london</title>
+      <link>https://rambleon.co.nz/categories/london/</link>
+      <pubDate>Fri, 13 Jul 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/london/</guid>
+      <description></description>
+    </item><item>
+      <title>asia</title>
       <link>https://rambleon.co.nz/categories/asia/</link>
-      <pubDate>Sat, 03 Mar 2012 18:02:59 +0000</pubDate>
+      <pubDate>Tue, 03 Jul 2012 22:24:37 +0000</pubDate>
       
       <guid>https://rambleon.co.nz/categories/asia/</guid>
       <description></description>
     </item><item>
-      <title>Borneo</title>
-      <link>https://rambleon.co.nz/categories/borneo/</link>
-      <pubDate>Sun, 26 Feb 2012 16:57:17 +0000</pubDate>
+      <title>beaches</title>
+      <link>https://rambleon.co.nz/categories/beaches/</link>
+      <pubDate>Tue, 03 Jul 2012 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/categories/borneo/</guid>
+      <guid>https://rambleon.co.nz/categories/beaches/</guid>
       <description></description>
     </item><item>
-      <title>Food</title>
+      <title>Thailand</title>
+      <link>https://rambleon.co.nz/categories/thailand/</link>
+      <pubDate>Tue, 03 Jul 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/thailand/</guid>
+      <description></description>
+    </item><item>
+      <title>Vietnam</title>
+      <link>https://rambleon.co.nz/categories/vietnam/</link>
+      <pubDate>Fri, 22 Jun 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/vietnam/</guid>
+      <description></description>
+    </item><item>
+      <title>food</title>
       <link>https://rambleon.co.nz/categories/food/</link>
-      <pubDate>Sat, 03 Mar 2012 18:02:59 +0000</pubDate>
+      <pubDate>Sun, 17 Jun 2012 22:24:37 +0000</pubDate>
       
       <guid>https://rambleon.co.nz/categories/food/</guid>
       <description></description>
     </item><item>
-      <title>Malaysia</title>
-      <link>https://rambleon.co.nz/categories/malaysia/</link>
-      <pubDate>Sat, 03 Mar 2012 18:02:59 +0000</pubDate>
+      <title>Cambodia</title>
+      <link>https://rambleon.co.nz/categories/cambodia/</link>
+      <pubDate>Sat, 26 May 2012 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/categories/malaysia/</guid>
+      <guid>https://rambleon.co.nz/categories/cambodia/</guid>
       <description></description>
     </item><item>
-      <title>Walks</title>
-      <link>https://rambleon.co.nz/categories/walks/</link>
-      <pubDate>Thu, 23 Feb 2012 16:54:19 +0000</pubDate>
+      <title>sightseeing</title>
+      <link>https://rambleon.co.nz/categories/sightseeing/</link>
+      <pubDate>Sun, 13 May 2012 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/categories/walks/</guid>
+      <guid>https://rambleon.co.nz/categories/sightseeing/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Walks - Rambleon</title>
+    <title>walks - Rambleon</title>
     <link>https://rambleon.co.nz/categories/walks/</link>
-    <description>Recent content in Walks on Rambleon</description>
+    <description>Recent content in walks on Rambleon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 23 Feb 2012 16:54:19 +0000</lastBuildDate>
@@ -12,17 +11,17 @@
     
     <item>
       <title>Mt Kinabalu</title>
-      <link>https://rambleon.co.nz/posts/kinabalu/</link>
+      <link>https://rambleon.co.nz/asia/kinabalu/</link>
       <pubDate>Thu, 23 Feb 2012 16:54:19 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/kinabalu/</guid>
+      <guid>https://rambleon.co.nz/asia/kinabalu/</guid>
       <description>Mount Kinabalu climb</description>
     </item><item>
       <title>Bako National Park</title>
-      <link>https://rambleon.co.nz/posts/bako/</link>
+      <link>https://rambleon.co.nz/asia/bako/</link>
       <pubDate>Mon, 20 Feb 2012 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/bako/</guid>
+      <guid>https://rambleon.co.nz/asia/bako/</guid>
       <description>Overnight in Bako national park</description>
     </item>
   </channel>

@@ -1,0 +1,84 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asia - Rambleon</title>
+    <link>https://rambleon.co.nz/asia/</link>
+    <description>Recent content in Asia on Rambleon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 03 Jul 2012 22:24:37 +0000</lastBuildDate>
+    
+        <atom:link href="https://rambleon.co.nz/asia/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Can Tho</title>
+      <link>https://rambleon.co.nz/asia/can_tho/</link>
+      <pubDate>Thu, 31 May 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/can_tho/</guid>
+      <description>Vietnam here we come</description>
+    </item><item>
+      <title>Kampot and Kep</title>
+      <link>https://rambleon.co.nz/asia/kampot_kep/</link>
+      <pubDate>Sat, 26 May 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/kampot_kep/</guid>
+      <description>snake temple</description>
+    </item><item>
+      <title>Sihanoukville</title>
+      <link>https://rambleon.co.nz/asia/sihanoukville/</link>
+      <pubDate>Sun, 20 May 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/sihanoukville/</guid>
+      <description>beach time</description>
+    </item><item>
+      <title>Sam Bat Village</title>
+      <link>https://rambleon.co.nz/asia/sam_bat/</link>
+      <pubDate>Tue, 15 May 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/sam_bat/</guid>
+      <description>teaching english</description>
+    </item><item>
+      <title>Siem Reap</title>
+      <link>https://rambleon.co.nz/asia/siem_reap/</link>
+      <pubDate>Sun, 13 May 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/siem_reap/</guid>
+      <description>Angkor Wat</description>
+    </item><item>
+      <title>Battambang</title>
+      <link>https://rambleon.co.nz/asia/battambang/</link>
+      <pubDate>Fri, 11 May 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/battambang/</guid>
+      <description>bamboo railway</description>
+    </item><item>
+      <title>Phnom Penh</title>
+      <link>https://rambleon.co.nz/asia/phnom_penh/</link>
+      <pubDate>Sun, 06 May 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/phnom_penh/</guid>
+      <description>Cambodian captial</description>
+    </item><item>
+      <title>Kratie</title>
+      <link>https://rambleon.co.nz/asia/kratie/</link>
+      <pubDate>Fri, 04 May 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/kratie/</guid>
+      <description>First stop in Cambodia</description>
+    </item><item>
+      <title> Goodbye Laos - a few reflections</title>
+      <link>https://rambleon.co.nz/asia/good_bye_laos/</link>
+      <pubDate>Thu, 03 May 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/good_bye_laos/</guid>
+      <description>Laos</description>
+    </item><item>
+      <title>Si Phan Don</title>
+      <link>https://rambleon.co.nz/asia/si_phan_don/</link>
+      <pubDate>Sat, 28 Apr 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/si_phan_don/</guid>
+      <description>RnR in 4000 islands</description>
+    </item>
+  </channel>
+</rss>

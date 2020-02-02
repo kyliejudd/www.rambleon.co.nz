@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rambleon</title>
@@ -6,59 +5,24 @@
     <description>Recent content on Rambleon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sat, 03 Mar 2012 18:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2012 22:24:37 +0000</lastBuildDate>
     
         <atom:link href="https://rambleon.co.nz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Melaka</title>
-      <link>https://rambleon.co.nz/posts/melaka/</link>
-      <pubDate>Sat, 03 Mar 2012 18:02:59 +0000</pubDate>
+      <title>Europe</title>
+      <link>https://rambleon.co.nz/europe/</link>
+      <pubDate>Sat, 01 Dec 2012 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/melaka/</guid>
-      <description>Eat your way around Melaka</description>
+      <guid>https://rambleon.co.nz/europe/</guid>
+      <description></description>
     </item><item>
-      <title>Kuala Lumpur</title>
-      <link>https://rambleon.co.nz/posts/kualalumpur/</link>
-      <pubDate>Thu, 01 Mar 2012 17:49:05 +0000</pubDate>
+      <title>Asia</title>
+      <link>https://rambleon.co.nz/asia/</link>
+      <pubDate>Tue, 03 Jul 2012 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/kualalumpur/</guid>
-      <description>Kuala Lumpur</description>
-    </item><item>
-      <title>Kuching</title>
-      <link>https://rambleon.co.nz/posts/kuching/</link>
-      <pubDate>Sun, 26 Feb 2012 16:57:17 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/posts/kuching/</guid>
-      <description>17-22 Feb 2012</description>
-    </item><item>
-      <title>Mt Kinabalu</title>
-      <link>https://rambleon.co.nz/posts/kinabalu/</link>
-      <pubDate>Thu, 23 Feb 2012 16:54:19 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/posts/kinabalu/</guid>
-      <description>Mount Kinabalu climb</description>
-    </item><item>
-      <title>Bako National Park</title>
-      <link>https://rambleon.co.nz/posts/bako/</link>
-      <pubDate>Mon, 20 Feb 2012 22:24:37 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/posts/bako/</guid>
-      <description>Overnight in Bako national park</description>
-    </item><item>
-      <title>Kuching Cooking</title>
-      <link>https://rambleon.co.nz/posts/kuching-cooking/</link>
-      <pubDate>Sun, 19 Feb 2012 22:00:17 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/posts/kuching-cooking/</guid>
-      <description>19 Feb 2012 - cooking class</description>
-    </item><item>
-      <title>Singapore</title>
-      <link>https://rambleon.co.nz/posts/singapore/</link>
-      <pubDate>Sat, 18 Feb 2012 16:42:16 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/posts/singapore/</guid>
-      <description>spashdown in Singapore</description>
+      <guid>https://rambleon.co.nz/asia/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

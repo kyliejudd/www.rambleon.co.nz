@@ -1,0 +1,49 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>beaches - Rambleon</title>
+    <link>https://rambleon.co.nz/categories/beaches/</link>
+    <description>Recent content in beaches on Rambleon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 03 Jul 2012 22:24:37 +0000</lastBuildDate>
+    
+        <atom:link href="https://rambleon.co.nz/categories/beaches/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Koh Tao</title>
+      <link>https://rambleon.co.nz/asia/koh_tao/</link>
+      <pubDate>Tue, 03 Jul 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/koh_tao/</guid>
+      <description>Beach time before London</description>
+    </item><item>
+      <title>Hoi An</title>
+      <link>https://rambleon.co.nz/asia/hoi_an/</link>
+      <pubDate>Sun, 10 Jun 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/hoi_an/</guid>
+      <description>New and Old friends</description>
+    </item><item>
+      <title>Mui Ne</title>
+      <link>https://rambleon.co.nz/asia/mui_ne/</link>
+      <pubDate>Tue, 05 Jun 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/mui_ne/</guid>
+      <description>Beach time</description>
+    </item><item>
+      <title>Sihanoukville</title>
+      <link>https://rambleon.co.nz/asia/sihanoukville/</link>
+      <pubDate>Sun, 20 May 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/sihanoukville/</guid>
+      <description>beach time</description>
+    </item><item>
+      <title>Langkawi</title>
+      <link>https://rambleon.co.nz/asia/langkawi/</link>
+      <pubDate>Mon, 12 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/langkawi/</guid>
+      <description>Last stop before Thailand</description>
+    </item>
+  </channel>
+</rss>

@@ -3,5 +3,6 @@ languageCode = "en-uk"
 title = "Rambleon"
 theme = "aether"
 
+pluralizeListTitles = false
 [params]
 bgimg = "restaurant/restaurant.png"

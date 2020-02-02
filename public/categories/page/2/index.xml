@@ -1,0 +1,49 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories - Rambleon</title>
+    <link>https://rambleon.co.nz/categories/</link>
+    <description>Recent content in Categories on Rambleon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 01 Dec 2012 22:24:37 +0000</lastBuildDate>
+    
+        <atom:link href="https://rambleon.co.nz/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Laos</title>
+      <link>https://rambleon.co.nz/categories/laos/</link>
+      <pubDate>Thu, 03 May 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/laos/</guid>
+      <description></description>
+    </item><item>
+      <title>malaysia</title>
+      <link>https://rambleon.co.nz/categories/malaysia/</link>
+      <pubDate>Mon, 12 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/malaysia/</guid>
+      <description></description>
+    </item><item>
+      <title>borneo</title>
+      <link>https://rambleon.co.nz/categories/borneo/</link>
+      <pubDate>Sun, 26 Feb 2012 16:57:17 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/borneo/</guid>
+      <description></description>
+    </item><item>
+      <title>walks</title>
+      <link>https://rambleon.co.nz/categories/walks/</link>
+      <pubDate>Thu, 23 Feb 2012 16:54:19 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/walks/</guid>
+      <description></description>
+    </item><item>
+      <title>Belgium</title>
+      <link>https://rambleon.co.nz/categories/belgium/</link>
+      <pubDate>Sat, 18 Feb 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/belgium/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Borneo - Rambleon</title>
+    <title>borneo - Rambleon</title>
     <link>https://rambleon.co.nz/categories/borneo/</link>
-    <description>Recent content in Borneo on Rambleon</description>
+    <description>Recent content in borneo on Rambleon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sun, 26 Feb 2012 16:57:17 +0000</lastBuildDate>
@@ -12,31 +11,31 @@
     
     <item>
       <title>Kuching</title>
-      <link>https://rambleon.co.nz/posts/kuching/</link>
+      <link>https://rambleon.co.nz/asia/kuching/</link>
       <pubDate>Sun, 26 Feb 2012 16:57:17 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/kuching/</guid>
+      <guid>https://rambleon.co.nz/asia/kuching/</guid>
       <description>17-22 Feb 2012</description>
     </item><item>
       <title>Mt Kinabalu</title>
-      <link>https://rambleon.co.nz/posts/kinabalu/</link>
+      <link>https://rambleon.co.nz/asia/kinabalu/</link>
       <pubDate>Thu, 23 Feb 2012 16:54:19 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/kinabalu/</guid>
+      <guid>https://rambleon.co.nz/asia/kinabalu/</guid>
       <description>Mount Kinabalu climb</description>
     </item><item>
       <title>Bako National Park</title>
-      <link>https://rambleon.co.nz/posts/bako/</link>
+      <link>https://rambleon.co.nz/asia/bako/</link>
       <pubDate>Mon, 20 Feb 2012 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/bako/</guid>
+      <guid>https://rambleon.co.nz/asia/bako/</guid>
       <description>Overnight in Bako national park</description>
     </item><item>
       <title>Kuching Cooking</title>
-      <link>https://rambleon.co.nz/posts/kuching-cooking/</link>
+      <link>https://rambleon.co.nz/asia/kuching-cooking/</link>
       <pubDate>Sun, 19 Feb 2012 22:00:17 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/kuching-cooking/</guid>
+      <guid>https://rambleon.co.nz/asia/kuching-cooking/</guid>
       <description>19 Feb 2012 - cooking class</description>
     </item>
   </channel>

@@ -1,0 +1,35 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>europe - Rambleon</title>
+    <link>https://rambleon.co.nz/categories/europe/</link>
+    <description>Recent content in europe on Rambleon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 01 Dec 2012 22:24:37 +0000</lastBuildDate>
+    
+        <atom:link href="https://rambleon.co.nz/categories/europe/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bath and Bristol</title>
+      <link>https://rambleon.co.nz/europe/uk/bath_bristol/</link>
+      <pubDate>Sat, 01 Dec 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/uk/bath_bristol/</guid>
+      <description>South West</description>
+    </item><item>
+      <title>Arriving in London</title>
+      <link>https://rambleon.co.nz/europe/uk/london_arrival/</link>
+      <pubDate>Fri, 13 Jul 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/uk/london_arrival/</guid>
+      <description>Our new home</description>
+    </item><item>
+      <title>Belgium</title>
+      <link>https://rambleon.co.nz/europe/belgium/</link>
+      <pubDate>Sat, 18 Feb 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/belgium/</guid>
+      <description>our first trip accross the channel</description>
+    </item>
+  </channel>
+</rss>

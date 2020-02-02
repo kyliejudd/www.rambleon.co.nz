@@ -1,0 +1,84 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asia - Rambleon</title>
+    <link>https://rambleon.co.nz/asia/</link>
+    <description>Recent content in Asia on Rambleon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 03 Jul 2012 22:24:37 +0000</lastBuildDate>
+    
+        <atom:link href="https://rambleon.co.nz/asia/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Chiang Mai - Baan Chang Elephant park</title>
+      <link>https://rambleon.co.nz/asia/chang_mai_baan/</link>
+      <pubDate>Sat, 24 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/chang_mai_baan/</guid>
+      <description>Mahout for the day</description>
+    </item><item>
+      <title>Chiang Mai</title>
+      <link>https://rambleon.co.nz/asia/chiang_mai/</link>
+      <pubDate>Wed, 21 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/chiang_mai/</guid>
+      <description>A bit of luxury</description>
+    </item><item>
+      <title>Sukhothai</title>
+      <link>https://rambleon.co.nz/asia/sukhothai/</link>
+      <pubDate>Sun, 18 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/sukhothai/</guid>
+      <description>Thailands other old capital</description>
+    </item><item>
+      <title>Ayutthaya</title>
+      <link>https://rambleon.co.nz/asia/ayutthaya/</link>
+      <pubDate>Fri, 16 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/ayutthaya/</guid>
+      <description>First stop in Thailand</description>
+    </item><item>
+      <title>Langkawi</title>
+      <link>https://rambleon.co.nz/asia/langkawi/</link>
+      <pubDate>Mon, 12 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/langkawi/</guid>
+      <description>Last stop before Thailand</description>
+    </item><item>
+      <title>Penang</title>
+      <link>https://rambleon.co.nz/asia/penang/</link>
+      <pubDate>Wed, 07 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/penang/</guid>
+      <description>A few nights in Penang</description>
+    </item><item>
+      <title>Cameron Highlands</title>
+      <link>https://rambleon.co.nz/asia/cameron_highlands/</link>
+      <pubDate>Tue, 06 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/cameron_highlands/</guid>
+      <description>escape the heat</description>
+    </item><item>
+      <title>Melaka</title>
+      <link>https://rambleon.co.nz/asia/melaka/</link>
+      <pubDate>Sat, 03 Mar 2012 18:02:59 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/melaka/</guid>
+      <description>Eat your way around Melaka</description>
+    </item><item>
+      <title>Kuala Lumpur</title>
+      <link>https://rambleon.co.nz/asia/kualalumpur/</link>
+      <pubDate>Thu, 01 Mar 2012 17:49:05 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/kualalumpur/</guid>
+      <description>Kuala Lumpur</description>
+    </item><item>
+      <title>Kuching</title>
+      <link>https://rambleon.co.nz/asia/kuching/</link>
+      <pubDate>Sun, 26 Feb 2012 16:57:17 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/kuching/</guid>
+      <description>17-22 Feb 2012</description>
+    </item>
+  </channel>
+</rss>

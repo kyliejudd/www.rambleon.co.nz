@@ -1,0 +1,70 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thailand - Rambleon</title>
+    <link>https://rambleon.co.nz/categories/thailand/</link>
+    <description>Recent content in Thailand on Rambleon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 03 Jul 2012 22:24:37 +0000</lastBuildDate>
+    
+        <atom:link href="https://rambleon.co.nz/categories/thailand/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Koh Tao</title>
+      <link>https://rambleon.co.nz/asia/koh_tao/</link>
+      <pubDate>Tue, 03 Jul 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/koh_tao/</guid>
+      <description>Beach time before London</description>
+    </item><item>
+      <title>Bangkok</title>
+      <link>https://rambleon.co.nz/asia/bangkok/</link>
+      <pubDate>Sun, 01 Jul 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/bangkok/</guid>
+      <description>back to Thailand</description>
+    </item><item>
+      <title>Chiang Rai</title>
+      <link>https://rambleon.co.nz/asia/chiang_rai/</link>
+      <pubDate>Tue, 27 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/chiang_rai/</guid>
+      <description>Last stop before Laos</description>
+    </item><item>
+      <title>Sammy&#39;s Organic cooking school</title>
+      <link>https://rambleon.co.nz/asia/chang_mai_sammys/</link>
+      <pubDate>Mon, 26 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/chang_mai_sammys/</guid>
+      <description>learning to cook Thai on the farm</description>
+    </item><item>
+      <title>Chiang Mai - Baan Chang Elephant park</title>
+      <link>https://rambleon.co.nz/asia/chang_mai_baan/</link>
+      <pubDate>Sat, 24 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/chang_mai_baan/</guid>
+      <description>Mahout for the day</description>
+    </item><item>
+      <title>Chiang Mai</title>
+      <link>https://rambleon.co.nz/asia/chiang_mai/</link>
+      <pubDate>Wed, 21 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/chiang_mai/</guid>
+      <description>A bit of luxury</description>
+    </item><item>
+      <title>Sukhothai</title>
+      <link>https://rambleon.co.nz/asia/sukhothai/</link>
+      <pubDate>Sun, 18 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/sukhothai/</guid>
+      <description>Thailands other old capital</description>
+    </item><item>
+      <title>Ayutthaya</title>
+      <link>https://rambleon.co.nz/asia/ayutthaya/</link>
+      <pubDate>Fri, 16 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/ayutthaya/</guid>
+      <description>First stop in Thailand</description>
+    </item>
+  </channel>
+</rss>

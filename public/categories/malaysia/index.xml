@@ -1,56 +1,76 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Malaysia - Rambleon</title>
+    <title>malaysia - Rambleon</title>
     <link>https://rambleon.co.nz/categories/malaysia/</link>
-    <description>Recent content in Malaysia on Rambleon</description>
+    <description>Recent content in malaysia on Rambleon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sat, 03 Mar 2012 18:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Mar 2012 22:24:37 +0000</lastBuildDate>
     
         <atom:link href="https://rambleon.co.nz/categories/malaysia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Langkawi</title>
+      <link>https://rambleon.co.nz/asia/langkawi/</link>
+      <pubDate>Mon, 12 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/langkawi/</guid>
+      <description>Last stop before Thailand</description>
+    </item><item>
+      <title>Penang</title>
+      <link>https://rambleon.co.nz/asia/penang/</link>
+      <pubDate>Wed, 07 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/penang/</guid>
+      <description>A few nights in Penang</description>
+    </item><item>
+      <title>Cameron Highlands</title>
+      <link>https://rambleon.co.nz/asia/cameron_highlands/</link>
+      <pubDate>Tue, 06 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/cameron_highlands/</guid>
+      <description>escape the heat</description>
+    </item><item>
       <title>Melaka</title>
-      <link>https://rambleon.co.nz/posts/melaka/</link>
+      <link>https://rambleon.co.nz/asia/melaka/</link>
       <pubDate>Sat, 03 Mar 2012 18:02:59 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/melaka/</guid>
+      <guid>https://rambleon.co.nz/asia/melaka/</guid>
       <description>Eat your way around Melaka</description>
     </item><item>
       <title>Kuala Lumpur</title>
-      <link>https://rambleon.co.nz/posts/kualalumpur/</link>
+      <link>https://rambleon.co.nz/asia/kualalumpur/</link>
       <pubDate>Thu, 01 Mar 2012 17:49:05 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/kualalumpur/</guid>
+      <guid>https://rambleon.co.nz/asia/kualalumpur/</guid>
       <description>Kuala Lumpur</description>
     </item><item>
       <title>Kuching</title>
-      <link>https://rambleon.co.nz/posts/kuching/</link>
+      <link>https://rambleon.co.nz/asia/kuching/</link>
       <pubDate>Sun, 26 Feb 2012 16:57:17 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/kuching/</guid>
+      <guid>https://rambleon.co.nz/asia/kuching/</guid>
       <description>17-22 Feb 2012</description>
     </item><item>
       <title>Mt Kinabalu</title>
-      <link>https://rambleon.co.nz/posts/kinabalu/</link>
+      <link>https://rambleon.co.nz/asia/kinabalu/</link>
       <pubDate>Thu, 23 Feb 2012 16:54:19 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/kinabalu/</guid>
+      <guid>https://rambleon.co.nz/asia/kinabalu/</guid>
       <description>Mount Kinabalu climb</description>
     </item><item>
       <title>Bako National Park</title>
-      <link>https://rambleon.co.nz/posts/bako/</link>
+      <link>https://rambleon.co.nz/asia/bako/</link>
       <pubDate>Mon, 20 Feb 2012 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/bako/</guid>
+      <guid>https://rambleon.co.nz/asia/bako/</guid>
       <description>Overnight in Bako national park</description>
     </item><item>
       <title>Kuching Cooking</title>
-      <link>https://rambleon.co.nz/posts/kuching-cooking/</link>
+      <link>https://rambleon.co.nz/asia/kuching-cooking/</link>
       <pubDate>Sun, 19 Feb 2012 22:00:17 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/kuching-cooking/</guid>
+      <guid>https://rambleon.co.nz/asia/kuching-cooking/</guid>
       <description>19 Feb 2012 - cooking class</description>
     </item>
   </channel>

@@ -1,64 +1,84 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Asia - Rambleon</title>
+    <title>asia - Rambleon</title>
     <link>https://rambleon.co.nz/categories/asia/</link>
-    <description>Recent content in Asia on Rambleon</description>
+    <description>Recent content in asia on Rambleon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sat, 03 Mar 2012 18:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jul 2012 22:24:37 +0000</lastBuildDate>
     
         <atom:link href="https://rambleon.co.nz/categories/asia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Melaka</title>
-      <link>https://rambleon.co.nz/posts/melaka/</link>
-      <pubDate>Sat, 03 Mar 2012 18:02:59 +0000</pubDate>
+      <title>Koh Tao</title>
+      <link>https://rambleon.co.nz/asia/koh_tao/</link>
+      <pubDate>Tue, 03 Jul 2012 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/melaka/</guid>
-      <description>Eat your way around Melaka</description>
+      <guid>https://rambleon.co.nz/asia/koh_tao/</guid>
+      <description>Beach time before London</description>
     </item><item>
-      <title>Kuala Lumpur</title>
-      <link>https://rambleon.co.nz/posts/kualalumpur/</link>
-      <pubDate>Thu, 01 Mar 2012 17:49:05 +0000</pubDate>
+      <title>Bangkok</title>
+      <link>https://rambleon.co.nz/asia/bangkok/</link>
+      <pubDate>Sun, 01 Jul 2012 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/kualalumpur/</guid>
-      <description>Kuala Lumpur</description>
+      <guid>https://rambleon.co.nz/asia/bangkok/</guid>
+      <description>back to Thailand</description>
     </item><item>
-      <title>Kuching</title>
-      <link>https://rambleon.co.nz/posts/kuching/</link>
-      <pubDate>Sun, 26 Feb 2012 16:57:17 +0000</pubDate>
+      <title>Ha Giang to Dong Van</title>
+      <link>https://rambleon.co.nz/asia/dong_van/</link>
+      <pubDate>Fri, 22 Jun 2012 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/kuching/</guid>
-      <description>17-22 Feb 2012</description>
+      <guid>https://rambleon.co.nz/asia/dong_van/</guid>
+      <description>road trip</description>
     </item><item>
-      <title>Mt Kinabalu</title>
-      <link>https://rambleon.co.nz/posts/kinabalu/</link>
-      <pubDate>Thu, 23 Feb 2012 16:54:19 +0000</pubDate>
+      <title>Halong Bay</title>
+      <link>https://rambleon.co.nz/asia/halong_bay/</link>
+      <pubDate>Tue, 19 Jun 2012 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/kinabalu/</guid>
-      <description>Mount Kinabalu climb</description>
+      <guid>https://rambleon.co.nz/asia/halong_bay/</guid>
+      <description>crusing</description>
     </item><item>
-      <title>Bako National Park</title>
-      <link>https://rambleon.co.nz/posts/bako/</link>
-      <pubDate>Mon, 20 Feb 2012 22:24:37 +0000</pubDate>
+      <title>Hanoi</title>
+      <link>https://rambleon.co.nz/asia/hanoi/</link>
+      <pubDate>Sun, 17 Jun 2012 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/bako/</guid>
-      <description>Overnight in Bako national park</description>
+      <guid>https://rambleon.co.nz/asia/hanoi/</guid>
+      <description></description>
     </item><item>
-      <title>Kuching Cooking</title>
-      <link>https://rambleon.co.nz/posts/kuching-cooking/</link>
-      <pubDate>Sun, 19 Feb 2012 22:00:17 +0000</pubDate>
+      <title>Hue</title>
+      <link>https://rambleon.co.nz/asia/hue/</link>
+      <pubDate>Fri, 15 Jun 2012 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/kuching-cooking/</guid>
-      <description>19 Feb 2012 - cooking class</description>
+      <guid>https://rambleon.co.nz/asia/hue/</guid>
+      <description>Rainy days</description>
     </item><item>
-      <title>Singapore</title>
-      <link>https://rambleon.co.nz/posts/singapore/</link>
-      <pubDate>Sat, 18 Feb 2012 16:42:16 +0000</pubDate>
+      <title>Hoi An</title>
+      <link>https://rambleon.co.nz/asia/hoi_an/</link>
+      <pubDate>Sun, 10 Jun 2012 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/posts/singapore/</guid>
-      <description>spashdown in Singapore</description>
+      <guid>https://rambleon.co.nz/asia/hoi_an/</guid>
+      <description>New and Old friends</description>
+    </item><item>
+      <title>Da Lat</title>
+      <link>https://rambleon.co.nz/asia/da_lat/</link>
+      <pubDate>Fri, 08 Jun 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/da_lat/</guid>
+      <description>Vietnam highlands</description>
+    </item><item>
+      <title>Mui Ne</title>
+      <link>https://rambleon.co.nz/asia/mui_ne/</link>
+      <pubDate>Tue, 05 Jun 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/mui_ne/</guid>
+      <description>Beach time</description>
+    </item><item>
+      <title>Saigon</title>
+      <link>https://rambleon.co.nz/asia/saigon/</link>
+      <pubDate>Fri, 01 Jun 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/saigon/</guid>
+      <description>Ho Chi Minh</description>
     </item>
   </channel>
 </rss>
