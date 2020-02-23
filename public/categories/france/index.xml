@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>France - Rambleon</title>
+    <link>https://rambleon.co.nz/categories/france/</link>
+    <description>Recent content in France on Rambleon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 19 Oct 2013 22:24:37 +0000</lastBuildDate>
+    
+        <atom:link href="https://rambleon.co.nz/categories/france/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Paris</title>
+      <link>https://rambleon.co.nz/europe/paris/</link>
+      <pubDate>Sat, 19 Oct 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/paris/</guid>
+      <description>Foux Du Fafa</description>
+    </item>
+  </channel>
+</rss>

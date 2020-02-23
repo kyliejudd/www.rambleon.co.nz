@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>camping - Rambleon</title>
+    <link>https://rambleon.co.nz/categories/camping/</link>
+    <description>Recent content in camping on Rambleon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 01 Aug 2013 22:24:37 +0000</lastBuildDate>
+    
+        <atom:link href="https://rambleon.co.nz/categories/camping/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Camping in Kent</title>
+      <link>https://rambleon.co.nz/europe/uk/ashurst/</link>
+      <pubDate>Thu, 01 Aug 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/uk/ashurst/</guid>
+      <description>escape the city</description>
+    </item>
+  </channel>
+</rss>

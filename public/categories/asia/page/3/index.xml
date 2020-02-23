@@ -5,11 +5,25 @@
     <description>Recent content in asia on Rambleon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 03 Jul 2012 22:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2014 22:24:37 +0000</lastBuildDate>
     
         <atom:link href="https://rambleon.co.nz/categories/asia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title> Goodbye Laos - a few reflections</title>
+      <link>https://rambleon.co.nz/asia/good_bye_laos/</link>
+      <pubDate>Thu, 03 May 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/good_bye_laos/</guid>
+      <description>Laos</description>
+    </item><item>
+      <title>Si Phan Don</title>
+      <link>https://rambleon.co.nz/asia/si_phan_don/</link>
+      <pubDate>Sat, 28 Apr 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/si_phan_don/</guid>
+      <description>RnR in 4000 islands</description>
+    </item><item>
       <title>Pakse</title>
       <link>https://rambleon.co.nz/asia/pakse/</link>
       <pubDate>Wed, 25 Apr 2012 22:24:37 +0000</pubDate>
@@ -65,20 +79,6 @@
       
       <guid>https://rambleon.co.nz/asia/luang_namtha/</guid>
       <description>Laos</description>
-    </item><item>
-      <title>Chiang Rai</title>
-      <link>https://rambleon.co.nz/asia/chiang_rai/</link>
-      <pubDate>Tue, 27 Mar 2012 22:24:37 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/asia/chiang_rai/</guid>
-      <description>Last stop before Laos</description>
-    </item><item>
-      <title>Sammy&#39;s Organic cooking school</title>
-      <link>https://rambleon.co.nz/asia/chang_mai_sammys/</link>
-      <pubDate>Mon, 26 Mar 2012 22:24:37 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/asia/chang_mai_sammys/</guid>
-      <description>learning to cook Thai on the farm</description>
     </item>
   </channel>
 </rss>

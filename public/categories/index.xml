@@ -5,79 +5,79 @@
     <description>Recent content in Categories on Rambleon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 01 Feb 2013 22:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2014 22:24:37 +0000</lastBuildDate>
     
         <atom:link href="https://rambleon.co.nz/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>europe</title>
+      <title>Austria</title>
+      <link>https://rambleon.co.nz/categories/austria/</link>
+      <pubDate>Sun, 07 Sep 2014 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/austria/</guid>
+      <description></description>
+    </item><item>
+      <title>Europe</title>
       <link>https://rambleon.co.nz/categories/europe/</link>
-      <pubDate>Fri, 01 Feb 2013 22:24:37 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2014 22:24:37 +0000</pubDate>
       
       <guid>https://rambleon.co.nz/categories/europe/</guid>
       <description></description>
     </item><item>
-      <title>Netherlands</title>
-      <link>https://rambleon.co.nz/categories/netherlands/</link>
-      <pubDate>Fri, 01 Feb 2013 22:24:37 +0000</pubDate>
+      <title>Germany</title>
+      <link>https://rambleon.co.nz/categories/germany/</link>
+      <pubDate>Sun, 07 Sep 2014 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/categories/netherlands/</guid>
+      <guid>https://rambleon.co.nz/categories/germany/</guid>
       <description></description>
     </item><item>
-      <title>london</title>
-      <link>https://rambleon.co.nz/categories/london/</link>
-      <pubDate>Sat, 12 Jan 2013 22:24:37 +0000</pubDate>
+      <title>Hungary</title>
+      <link>https://rambleon.co.nz/categories/hungary/</link>
+      <pubDate>Sun, 07 Sep 2014 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/categories/london/</guid>
+      <guid>https://rambleon.co.nz/categories/hungary/</guid>
       <description></description>
     </item><item>
       <title>England</title>
       <link>https://rambleon.co.nz/categories/england/</link>
-      <pubDate>Sat, 01 Dec 2012 22:24:37 +0000</pubDate>
+      <pubDate>Sun, 08 Jun 2014 22:24:37 +0000</pubDate>
       
       <guid>https://rambleon.co.nz/categories/england/</guid>
       <description></description>
     </item><item>
+      <title>London</title>
+      <link>https://rambleon.co.nz/categories/london/</link>
+      <pubDate>Sun, 08 Jun 2014 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/london/</guid>
+      <description></description>
+    </item><item>
       <title>asia</title>
       <link>https://rambleon.co.nz/categories/asia/</link>
-      <pubDate>Tue, 03 Jul 2012 22:24:37 +0000</pubDate>
+      <pubDate>Fri, 30 May 2014 22:24:37 +0000</pubDate>
       
       <guid>https://rambleon.co.nz/categories/asia/</guid>
       <description></description>
     </item><item>
-      <title>beaches</title>
-      <link>https://rambleon.co.nz/categories/beaches/</link>
-      <pubDate>Tue, 03 Jul 2012 22:24:37 +0000</pubDate>
+      <title>Turkey</title>
+      <link>https://rambleon.co.nz/categories/turkey/</link>
+      <pubDate>Fri, 30 May 2014 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/categories/beaches/</guid>
+      <guid>https://rambleon.co.nz/categories/turkey/</guid>
       <description></description>
     </item><item>
-      <title>Thailand</title>
-      <link>https://rambleon.co.nz/categories/thailand/</link>
-      <pubDate>Tue, 03 Jul 2012 22:24:37 +0000</pubDate>
+      <title>New Zealand</title>
+      <link>https://rambleon.co.nz/categories/new-zealand/</link>
+      <pubDate>Thu, 30 Jan 2014 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/categories/thailand/</guid>
+      <guid>https://rambleon.co.nz/categories/new-zealand/</guid>
       <description></description>
     </item><item>
-      <title>Vietnam</title>
-      <link>https://rambleon.co.nz/categories/vietnam/</link>
-      <pubDate>Fri, 22 Jun 2012 22:24:37 +0000</pubDate>
+      <title>France</title>
+      <link>https://rambleon.co.nz/categories/france/</link>
+      <pubDate>Sat, 19 Oct 2013 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/categories/vietnam/</guid>
-      <description></description>
-    </item><item>
-      <title>food</title>
-      <link>https://rambleon.co.nz/categories/food/</link>
-      <pubDate>Sun, 17 Jun 2012 22:24:37 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/categories/food/</guid>
-      <description></description>
-    </item><item>
-      <title>Cambodia</title>
-      <link>https://rambleon.co.nz/categories/cambodia/</link>
-      <pubDate>Sat, 26 May 2012 22:24:37 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/categories/cambodia/</guid>
+      <guid>https://rambleon.co.nz/categories/france/</guid>
       <description></description>
     </item>
   </channel>

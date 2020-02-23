@@ -5,11 +5,25 @@
     <description>Recent content in asia on Rambleon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 03 Jul 2012 22:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2014 22:24:37 +0000</lastBuildDate>
     
         <atom:link href="https://rambleon.co.nz/categories/asia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Turkey</title>
+      <link>https://rambleon.co.nz/europe/turkeypart2/</link>
+      <pubDate>Fri, 30 May 2014 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/turkeypart2/</guid>
+      <description>adventures after Istanbul</description>
+    </item><item>
+      <title>Istanbul</title>
+      <link>https://rambleon.co.nz/europe/turkey/</link>
+      <pubDate>Mon, 26 May 2014 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/turkey/</guid>
+      <description>Asia and Europe meet</description>
+    </item><item>
       <title>Koh Tao</title>
       <link>https://rambleon.co.nz/asia/koh_tao/</link>
       <pubDate>Tue, 03 Jul 2012 22:24:37 +0000</pubDate>
@@ -65,20 +79,6 @@
       
       <guid>https://rambleon.co.nz/asia/da_lat/</guid>
       <description>Vietnam highlands</description>
-    </item><item>
-      <title>Mui Ne</title>
-      <link>https://rambleon.co.nz/asia/mui_ne/</link>
-      <pubDate>Tue, 05 Jun 2012 22:24:37 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/asia/mui_ne/</guid>
-      <description>Beach time</description>
-    </item><item>
-      <title>Saigon</title>
-      <link>https://rambleon.co.nz/asia/saigon/</link>
-      <pubDate>Fri, 01 Jun 2012 22:24:37 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/asia/saigon/</guid>
-      <description>Ho Chi Minh</description>
     </item>
   </channel>
 </rss>

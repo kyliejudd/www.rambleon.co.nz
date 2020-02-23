@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turkey - Rambleon</title>
+    <link>https://rambleon.co.nz/categories/turkey/</link>
+    <description>Recent content in Turkey on Rambleon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 30 May 2014 22:24:37 +0000</lastBuildDate>
+    
+        <atom:link href="https://rambleon.co.nz/categories/turkey/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Turkey</title>
+      <link>https://rambleon.co.nz/europe/turkeypart2/</link>
+      <pubDate>Fri, 30 May 2014 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/turkeypart2/</guid>
+      <description>adventures after Istanbul</description>
+    </item><item>
+      <title>Istanbul</title>
+      <link>https://rambleon.co.nz/europe/turkey/</link>
+      <pubDate>Mon, 26 May 2014 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/turkey/</guid>
+      <description>Asia and Europe meet</description>
+    </item>
+  </channel>
+</rss>

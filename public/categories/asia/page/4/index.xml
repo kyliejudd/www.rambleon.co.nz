@@ -5,11 +5,25 @@
     <description>Recent content in asia on Rambleon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 03 Jul 2012 22:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2014 22:24:37 +0000</lastBuildDate>
     
         <atom:link href="https://rambleon.co.nz/categories/asia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Chiang Rai</title>
+      <link>https://rambleon.co.nz/asia/chiang_rai/</link>
+      <pubDate>Tue, 27 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/chiang_rai/</guid>
+      <description>Last stop before Laos</description>
+    </item><item>
+      <title>Sammy&#39;s Organic cooking school</title>
+      <link>https://rambleon.co.nz/asia/chang_mai_sammys/</link>
+      <pubDate>Mon, 26 Mar 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/asia/chang_mai_sammys/</guid>
+      <description>learning to cook Thai on the farm</description>
+    </item><item>
       <title>Chiang Mai - Baan Chang Elephant park</title>
       <link>https://rambleon.co.nz/asia/chang_mai_baan/</link>
       <pubDate>Sat, 24 Mar 2012 22:24:37 +0000</pubDate>
@@ -65,20 +79,6 @@
       
       <guid>https://rambleon.co.nz/asia/melaka/</guid>
       <description>Eat your way around Melaka</description>
-    </item><item>
-      <title>Kuala Lumpur</title>
-      <link>https://rambleon.co.nz/asia/kualalumpur/</link>
-      <pubDate>Thu, 01 Mar 2012 17:49:05 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/asia/kualalumpur/</guid>
-      <description>Kuala Lumpur</description>
-    </item><item>
-      <title>Kuching</title>
-      <link>https://rambleon.co.nz/asia/kuching/</link>
-      <pubDate>Sun, 26 Feb 2012 16:57:17 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/asia/kuching/</guid>
-      <description>17-22 Feb 2012</description>
     </item>
   </channel>
 </rss>

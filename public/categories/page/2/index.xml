@@ -5,51 +5,79 @@
     <description>Recent content in Categories on Rambleon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 01 Feb 2013 22:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2014 22:24:37 +0000</lastBuildDate>
     
         <atom:link href="https://rambleon.co.nz/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>camping</title>
+      <link>https://rambleon.co.nz/categories/camping/</link>
+      <pubDate>Thu, 01 Aug 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/camping/</guid>
+      <description></description>
+    </item><item>
+      <title>beaches</title>
+      <link>https://rambleon.co.nz/categories/beaches/</link>
+      <pubDate>Thu, 04 Jul 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/beaches/</guid>
+      <description></description>
+    </item><item>
+      <title>italy</title>
+      <link>https://rambleon.co.nz/categories/italy/</link>
+      <pubDate>Thu, 04 Jul 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/italy/</guid>
+      <description></description>
+    </item><item>
+      <title>spain</title>
+      <link>https://rambleon.co.nz/categories/spain/</link>
+      <pubDate>Thu, 09 May 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/spain/</guid>
+      <description></description>
+    </item><item>
+      <title>Netherlands</title>
+      <link>https://rambleon.co.nz/categories/netherlands/</link>
+      <pubDate>Fri, 01 Feb 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/netherlands/</guid>
+      <description></description>
+    </item><item>
+      <title>Thailand</title>
+      <link>https://rambleon.co.nz/categories/thailand/</link>
+      <pubDate>Tue, 03 Jul 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/thailand/</guid>
+      <description></description>
+    </item><item>
+      <title>Vietnam</title>
+      <link>https://rambleon.co.nz/categories/vietnam/</link>
+      <pubDate>Fri, 22 Jun 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/vietnam/</guid>
+      <description></description>
+    </item><item>
+      <title>food</title>
+      <link>https://rambleon.co.nz/categories/food/</link>
+      <pubDate>Sun, 17 Jun 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/food/</guid>
+      <description></description>
+    </item><item>
+      <title>Cambodia</title>
+      <link>https://rambleon.co.nz/categories/cambodia/</link>
+      <pubDate>Sat, 26 May 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/categories/cambodia/</guid>
+      <description></description>
+    </item><item>
       <title>sightseeing</title>
       <link>https://rambleon.co.nz/categories/sightseeing/</link>
       <pubDate>Sun, 13 May 2012 22:24:37 +0000</pubDate>
       
       <guid>https://rambleon.co.nz/categories/sightseeing/</guid>
-      <description></description>
-    </item><item>
-      <title>Laos</title>
-      <link>https://rambleon.co.nz/categories/laos/</link>
-      <pubDate>Thu, 03 May 2012 22:24:37 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/categories/laos/</guid>
-      <description></description>
-    </item><item>
-      <title>malaysia</title>
-      <link>https://rambleon.co.nz/categories/malaysia/</link>
-      <pubDate>Mon, 12 Mar 2012 22:24:37 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/categories/malaysia/</guid>
-      <description></description>
-    </item><item>
-      <title>borneo</title>
-      <link>https://rambleon.co.nz/categories/borneo/</link>
-      <pubDate>Sun, 26 Feb 2012 16:57:17 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/categories/borneo/</guid>
-      <description></description>
-    </item><item>
-      <title>walks</title>
-      <link>https://rambleon.co.nz/categories/walks/</link>
-      <pubDate>Thu, 23 Feb 2012 16:54:19 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/categories/walks/</guid>
-      <description></description>
-    </item><item>
-      <title>Belgium</title>
-      <link>https://rambleon.co.nz/categories/belgium/</link>
-      <pubDate>Sat, 18 Feb 2012 22:24:37 +0000</pubDate>
-      
-      <guid>https://rambleon.co.nz/categories/belgium/</guid>
       <description></description>
     </item>
   </channel>

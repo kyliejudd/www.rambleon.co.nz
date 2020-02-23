@@ -3,22 +3,187 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rambleon.co.nz/europe/amsterdam/</loc>
-    <lastmod>2013-02-01T22:24:37+00:00</lastmod>
+    <loc>https://rambleon.co.nz/categories/austria/</loc>
+    <lastmod>2014-09-07T22:24:37+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rambleon.co.nz/categories/</loc>
-    <lastmod>2013-02-01T22:24:37+00:00</lastmod>
+    <lastmod>2014-09-07T22:24:37+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rambleon.co.nz/categories/europe/</loc>
-    <lastmod>2013-02-01T22:24:37+00:00</lastmod>
+    <lastmod>2014-09-07T22:24:37+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rambleon.co.nz/europe/</loc>
+    <lastmod>2014-09-07T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/categories/germany/</loc>
+    <lastmod>2014-09-07T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/categories/hungary/</loc>
+    <lastmod>2014-09-07T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/</loc>
+    <lastmod>2014-09-07T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/roadtrip14/</loc>
+    <lastmod>2014-09-07T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/roadtrip14_p2/</loc>
+    <lastmod>2014-09-07T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/dublin/</loc>
+    <lastmod>2014-06-29T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/categories/england/</loc>
+    <lastmod>2014-06-08T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/categories/london/</loc>
+    <lastmod>2014-06-08T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/uk/london/</loc>
+    <lastmod>2014-06-08T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/uk/london/summer14/</loc>
+    <lastmod>2014-06-08T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/categories/asia/</loc>
+    <lastmod>2014-05-30T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/categories/turkey/</loc>
+    <lastmod>2014-05-30T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/turkeypart2/</loc>
+    <lastmod>2014-05-30T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/turkey/</loc>
+    <lastmod>2014-05-26T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/nz/hannah/</loc>
+    <lastmod>2014-01-30T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/categories/new-zealand/</loc>
+    <lastmod>2014-01-30T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/nz/</loc>
+    <lastmod>2014-01-30T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/uk/london/xmas13/</loc>
+    <lastmod>2013-12-25T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/uk/london/littlevenice/</loc>
+    <lastmod>2013-12-14T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/categories/france/</loc>
+    <lastmod>2013-10-19T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/paris/</loc>
+    <lastmod>2013-10-19T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/categories/camping/</loc>
+    <lastmod>2013-08-01T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/uk/ashurst/</loc>
+    <lastmod>2013-08-01T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/uk/</loc>
+    <lastmod>2013-08-01T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/categories/beaches/</loc>
+    <lastmod>2013-07-04T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/categories/italy/</loc>
+    <lastmod>2013-07-04T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/sicily/</loc>
+    <lastmod>2013-07-04T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/german-road-trip/</loc>
+    <lastmod>2013-06-07T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/guernsey/</loc>
+    <lastmod>2013-05-19T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/barcelona/</loc>
+    <lastmod>2013-05-09T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/categories/spain/</loc>
+    <lastmod>2013-05-09T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/uk/stratford-upon-avon/</loc>
+    <lastmod>2013-04-26T22:24:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rambleon.co.nz/europe/amsterdam/</loc>
     <lastmod>2013-02-01T22:24:37+00:00</lastmod>
   </url>
   
@@ -28,37 +193,12 @@
   </url>
   
   <url>
-    <loc>https://rambleon.co.nz/</loc>
-    <lastmod>2013-02-01T22:24:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rambleon.co.nz/europe/uk/london/</loc>
-    <lastmod>2013-01-12T22:24:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rambleon.co.nz/categories/london/</loc>
-    <lastmod>2013-01-12T22:24:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rambleon.co.nz/europe/uk/london/xmas12/</loc>
+    <loc>https://rambleon.co.nz/europe/uk/london/xmas2012/</loc>
     <lastmod>2013-01-12T22:24:37+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rambleon.co.nz/europe/uk/bath_bristol/</loc>
-    <lastmod>2012-12-01T22:24:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rambleon.co.nz/categories/england/</loc>
-    <lastmod>2012-12-01T22:24:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rambleon.co.nz/europe/uk/</loc>
     <lastmod>2012-12-01T22:24:37+00:00</lastmod>
   </url>
   
@@ -69,16 +209,6 @@
   
   <url>
     <loc>https://rambleon.co.nz/asia/</loc>
-    <lastmod>2012-07-03T22:24:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rambleon.co.nz/categories/asia/</loc>
-    <lastmod>2012-07-03T22:24:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rambleon.co.nz/categories/beaches/</loc>
     <lastmod>2012-07-03T22:24:37+00:00</lastmod>
   </url>
   

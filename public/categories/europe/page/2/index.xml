@@ -1,0 +1,56 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Europe - Rambleon</title>
+    <link>https://rambleon.co.nz/categories/europe/</link>
+    <description>Recent content in Europe on Rambleon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 07 Sep 2014 22:24:37 +0000</lastBuildDate>
+    
+        <atom:link href="https://rambleon.co.nz/categories/europe/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stratford Upon Avon</title>
+      <link>https://rambleon.co.nz/europe/uk/stratford-upon-avon/</link>
+      <pubDate>Fri, 26 Apr 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/uk/stratford-upon-avon/</guid>
+      <description>Shakespeare and running</description>
+    </item><item>
+      <title>Amsterdam</title>
+      <link>https://rambleon.co.nz/europe/amsterdam/</link>
+      <pubDate>Fri, 01 Feb 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/amsterdam/</guid>
+      <description>Canals and stroopwafel</description>
+    </item><item>
+      <title>xmas 2012</title>
+      <link>https://rambleon.co.nz/europe/uk/london/xmas2012/</link>
+      <pubDate>Sat, 12 Jan 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/uk/london/xmas2012/</guid>
+      <description>winter wonderland</description>
+    </item><item>
+      <title>Bath and Bristol</title>
+      <link>https://rambleon.co.nz/europe/uk/bath_bristol/</link>
+      <pubDate>Sat, 01 Dec 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/uk/bath_bristol/</guid>
+      <description>South West</description>
+    </item><item>
+      <title>Arriving in London</title>
+      <link>https://rambleon.co.nz/europe/uk/london/london_arrival/</link>
+      <pubDate>Fri, 13 Jul 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/uk/london/london_arrival/</guid>
+      <description>Our new home</description>
+    </item><item>
+      <title>Belgium</title>
+      <link>https://rambleon.co.nz/europe/belgium/</link>
+      <pubDate>Sat, 18 Feb 2012 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/belgium/</guid>
+      <description>our first trip accross the channel</description>
+    </item>
+  </channel>
+</rss>

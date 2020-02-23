@@ -5,31 +5,80 @@
     <description>Recent content in europe on Rambleon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 01 Feb 2013 22:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2014 22:24:37 +0000</lastBuildDate>
     
         <atom:link href="https://rambleon.co.nz/europe/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Amsterdam</title>
-      <link>https://rambleon.co.nz/europe/amsterdam/</link>
-      <pubDate>Fri, 01 Feb 2013 22:24:37 +0000</pubDate>
+      <title>Road trip</title>
+      <link>https://rambleon.co.nz/europe/roadtrip14/</link>
+      <pubDate>Sun, 07 Sep 2014 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/europe/amsterdam/</guid>
-      <description>Canals and stroopwafel</description>
+      <guid>https://rambleon.co.nz/europe/roadtrip14/</guid>
+      <description>road trip with James and Susie</description>
+    </item><item>
+      <title>Road trip part 2</title>
+      <link>https://rambleon.co.nz/europe/roadtrip14_p2/</link>
+      <pubDate>Sun, 07 Sep 2014 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/roadtrip14_p2/</guid>
+      <description>road trip with James and Susie part 2</description>
+    </item><item>
+      <title>Dublin</title>
+      <link>https://rambleon.co.nz/europe/dublin/</link>
+      <pubDate>Sun, 29 Jun 2014 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/dublin/</guid>
+      <description>Jack White and guinness</description>
+    </item><item>
+      <title>Turkey</title>
+      <link>https://rambleon.co.nz/europe/turkeypart2/</link>
+      <pubDate>Fri, 30 May 2014 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/turkeypart2/</guid>
+      <description>adventures after Istanbul</description>
+    </item><item>
+      <title>Istanbul</title>
+      <link>https://rambleon.co.nz/europe/turkey/</link>
+      <pubDate>Mon, 26 May 2014 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/turkey/</guid>
+      <description>Asia and Europe meet</description>
+    </item><item>
+      <title>Paris</title>
+      <link>https://rambleon.co.nz/europe/paris/</link>
+      <pubDate>Sat, 19 Oct 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/paris/</guid>
+      <description>Foux Du Fafa</description>
     </item><item>
       <title>United Kingdom</title>
       <link>https://rambleon.co.nz/europe/uk/</link>
-      <pubDate>Sat, 01 Dec 2012 22:24:37 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2013 22:24:37 +0000</pubDate>
       
       <guid>https://rambleon.co.nz/europe/uk/</guid>
       <description></description>
     </item><item>
-      <title>Belgium</title>
-      <link>https://rambleon.co.nz/europe/belgium/</link>
-      <pubDate>Sat, 18 Feb 2012 22:24:37 +0000</pubDate>
+      <title>Sicily</title>
+      <link>https://rambleon.co.nz/europe/sicily/</link>
+      <pubDate>Thu, 04 Jul 2013 22:24:37 +0000</pubDate>
       
-      <guid>https://rambleon.co.nz/europe/belgium/</guid>
-      <description>our first trip accross the channel</description>
+      <guid>https://rambleon.co.nz/europe/sicily/</guid>
+      <description>food, sunshine and friends</description>
+    </item><item>
+      <title>German road trip</title>
+      <link>https://rambleon.co.nz/europe/german-road-trip/</link>
+      <pubDate>Fri, 07 Jun 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/german-road-trip/</guid>
+      <description>Brezels, bratwurst and Berliner Weisse</description>
+    </item><item>
+      <title>Guernsey</title>
+      <link>https://rambleon.co.nz/europe/guernsey/</link>
+      <pubDate>Sun, 19 May 2013 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/europe/guernsey/</guid>
+      <description>Guernsey</description>
     </item>
   </channel>
 </rss>

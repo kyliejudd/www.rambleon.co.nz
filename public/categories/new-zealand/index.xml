@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Zealand - Rambleon</title>
+    <link>https://rambleon.co.nz/categories/new-zealand/</link>
+    <description>Recent content in New Zealand on Rambleon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 30 Jan 2014 22:24:37 +0000</lastBuildDate>
+    
+        <atom:link href="https://rambleon.co.nz/categories/new-zealand/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hannah visits home</title>
+      <link>https://rambleon.co.nz/nz/hannah/</link>
+      <pubDate>Thu, 30 Jan 2014 22:24:37 +0000</pubDate>
+      
+      <guid>https://rambleon.co.nz/nz/hannah/</guid>
+      <description>First trip home</description>
+    </item>
+  </channel>
+</rss>
